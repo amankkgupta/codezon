@@ -48,7 +48,6 @@ div.header {
     width:auto;
     background-image: url("header.jpg");
     background-size: cover;
-    background-attachment: fixed;
     overflow: hidden;
 
 
