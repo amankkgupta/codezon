@@ -44,7 +44,7 @@
 }
 
 div.header {
-    height:500px;
+    height:auto;
     width:auto;
     background-image: url("header.jpg");
     background-size: cover;
