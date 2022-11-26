@@ -44,9 +44,11 @@
 }
 
 div.header {
+    height:500px;
+    width:auto;
     background-image: url("header.jpg");
     background-size: cover;
-    
+    background-attachment: fixed;
     overflow: hidden;
 
 
